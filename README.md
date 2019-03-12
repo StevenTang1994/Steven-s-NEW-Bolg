@@ -32,4 +32,5 @@ This is steven's new bolg，Redesign typesetting，Starting from ES5 to the back
         -  [JS(十六)继承模式,命名空间,对象枚举(下)](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/1#seventeen)
         - [JS(十七)this](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/1#eighteen)
     - **ES6**相关语法
-        - [let与const待续...]()
+        - [let](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2)
+        - [const](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#ones)
