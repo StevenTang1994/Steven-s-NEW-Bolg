@@ -7,6 +7,8 @@ This is steven's new bolg，Redesign typesetting，Starting from ES5 to the back
 
 **不出意外应该会一天一更新**
 
+2019年06月26日: 不好意思，拖更了。。。。
+
 [进入博客](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/created_by/StevenTang1994)
 
 ### 目录
