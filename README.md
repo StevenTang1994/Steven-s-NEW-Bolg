@@ -7,8 +7,6 @@ This is steven's new bolg，Redesign typesetting，Starting from ES5 to the back
 
 **不出意外应该会一天一更新**
 
-2019年06月26日: 不好意思，拖更了。。。。
-
 [进入博客](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/created_by/StevenTang1994)
 
 ### 目录
@@ -39,3 +37,4 @@ This is steven's new bolg，Redesign typesetting，Starting from ES5 to the back
 2. [有趣的题目，欢迎交流](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/3) 
 3. [其他语言](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/4)
 4. [浏览器缓存基本常识](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/5)
+5. [新增数组扩展](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/6)
