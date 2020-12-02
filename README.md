@@ -39,3 +39,4 @@ This is steven's new bolg，Redesign typesetting，Starting from ES5 to the back
 4. [浏览器缓存基本常识](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/5)
 5. [新增数组扩展](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/6)
 6. [重要的BOM对象](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/7)
+7. [复习](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/8)
