@@ -38,7 +38,7 @@ This is steven's new bolg，Redesign typesetting，Starting from ES5 to the back
         - [箭头函数](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#four)
         - [双向绑定 ES5 写法](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#five)
         - [双向绑定 ES6 写法](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#sex)
-        - [双向绑定 ES6 写法](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#seven)
+        - [Class](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#seven)
 2. [有趣的题目，欢迎交流](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/3) 
 3. [其他语言](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/4)
 4. [浏览器缓存基本常识](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/5)
