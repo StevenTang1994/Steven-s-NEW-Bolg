@@ -41,6 +41,7 @@ This is steven's new bolg，Redesign typesetting，Starting from ES5 to the back
         - [Class](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#seven)
         - [@decortor 装饰器](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#eight)
         - [Set](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#nine)
+        - [补全 Set WeakSet](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/2#ten)
 2. [有趣的题目，欢迎交流](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/3) 
 3. [其他语言](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/4)
 4. [浏览器缓存基本常识](https://github.com/StevenTang1994/Steven-s-NEW-Bolg/issues/5)
